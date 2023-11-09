@@ -1,0 +1,22 @@
+{
+  "sensors": [
+    {
+      "timestamp": "10-11-2023 01:03:39",
+      "humidity": 54,
+      "temperature": 25.79999924,
+      "id": 1
+    },
+    {
+      "timestamp": "10-11-2023 01:03:54",
+      "humidity": 54,
+      "temperature": 25.70000076,
+      "id": 2
+    },
+    {
+      "timestamp": "10-11-2023 01:04:09",
+      "humidity": 54,
+      "temperature": 25.60000038,
+      "id": 3
+    }
+  ]
+}
